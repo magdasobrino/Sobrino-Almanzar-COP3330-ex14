@@ -31,6 +31,7 @@ public class Exercise14 {
     System.out.printf("The tax is $%.2f \n",stateTax);
     System.out.printf("The total is $%.2f \n",total);
 
+    System.exit(0);
+	}//end of main
 
- }
-}
+}//end of program
